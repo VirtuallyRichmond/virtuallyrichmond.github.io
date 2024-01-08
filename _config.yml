@@ -1,18 +1,18 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Virtually Richmond"
+author: "Ronnie Bailey"
+description: "Exploring Richmond’s tech scene. Uncover innovation, trends, and the digital pulse of our city. Join the conversation!"
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
-#facebook_username: username
+email: "ronniebailey@live.com"
+twitter_username: "virtuallyrva"
+instagram_username: "virtuallyrichmond"
+linkedin_username: "virtuallyrichmond"
+#facebook_username: virtuallyrichmond
 #flickr_username: username
-#instagram_username: username
+#instagram_username: virtuallyrichmond
 #pinterest_username: username
-#youtube_username: username
+#youtube_username: virtuallyrichmond
 #googleplus_username: +username
 
 #########################################################################################
